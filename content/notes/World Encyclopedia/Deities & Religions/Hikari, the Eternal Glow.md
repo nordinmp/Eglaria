@@ -1,4 +1,5 @@
 ---
+titel: Hikari, the Eternal Glow
 tags:
 - Religion
 ---
