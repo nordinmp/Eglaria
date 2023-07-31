@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd6360478d2e744c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "content/notes/setup.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd6360478d2e744c",
+  "active": "720cf4b1c7412fe6",
   "lastOpenFiles": [
     "tags/Religions.md",
     "notes/World Encyclopedia/Deities & Religions/Hikari, the Eternal Glow.md",
