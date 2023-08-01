@@ -1,0 +1,1 @@
+Velkommen til Eglaria, et land som har massere af smuk natur og dejlige mennesker, Eglaria har haft nogle problemer ligesom alle andre lande. Mest nævneværdigt har er der en krig mellem [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|Ogres of Tatrington]] og resten af Eglaria, det har virkelig sat en stopper for Eglarias turisme 
