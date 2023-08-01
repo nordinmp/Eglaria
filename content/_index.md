@@ -3,7 +3,7 @@ title: Eglaria Homepage
 enableToc: false
 ---
 
-# Velkommen til [[notes/World Atlas/Eglaria|Eglaria]]
+# Velkommen til Eglaria
 
 [Join campaignen](https://www.dndbeyond.com/campaigns/join/43337942351197806)! 
 ## Introduktion
