@@ -247,6 +247,13 @@
   </script>
   {{end}}
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
-  <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
-  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+<!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PVEYRNR79J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-PVEYRNR79J');
+  </script>
 </head>
