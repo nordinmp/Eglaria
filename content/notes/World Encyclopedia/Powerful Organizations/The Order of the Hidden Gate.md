@@ -24,7 +24,7 @@ The Order of the Hidden Gate is a highly specialized and secretive military orga
 
 **Leadership and Command**: The leadership of The Order of the Hidden Gate comprises experienced and battle-hardened commanders. They provide guidance, training, and strategic direction to the squads while maintaining a veil of secrecy around their operations.
 
-Elusive Identity: The order's members are adept at concealing their true identities. They often go by code names and adopt multiple personas, making it challenging for enemies to track them down.
+**Elusive Identity**: The order's members are adept at concealing their true identities. They often go by code names and adopt multiple personas, making it challenging for enemies to track them down.
 
 **Fear and Respect**: The reputation of The Order of the Hidden Gate strikes fear into the hearts of their enemies and earns respect from their allies. Their ability to disrupt and weaken enemy forces from within has earned them a place among the most feared military organizations in Eglaria.
 

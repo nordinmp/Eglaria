@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 Velkommen til Eglaria
-
+[Join campaignen](https://www.dndbeyond.com/campaigns/join/43337942351197806)! 
 ## Get Started
 [![[notes/images/Eglaria.jpg]]](https://nordinmp.github.io/Eglaria/notes/images/Eglaria.jpg)
 [Kort over Eglaria](https://nordinmp.github.io/Eglaria/notes/images/Eglaria.jpg)
