@@ -12,7 +12,7 @@ Grommash Ironheart hails from a long line of revered ogre leaders, and he is dee
 Chief Grommash possesses the charisma of a natural leader, capable of rallying his ogre tribes with his inspiring speeches and powerful presence. He knows how to channel the pride and honor of his people, instilling a sense of purpose and unity among them.
 
 **Visionary Ambitions**:
-Influenced by the great leaders of the past, including Xerxes I, Grommash envisions a future where the [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|ogres of Tatrington]] reclaim their lands and live in harmony with the other races of Eglaria. He seeks to restore the city to its former glory and create a prosperous realm for all its inhabitants.
+Influenced by the great leaders of the past, including Xerxes I, Grommash envisions a future where the [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|ogres of Tatrington]] reclaim their lands and live in harmony with the other races of [[notes/World Atlas/Eglaria|Eglaria]]. He seeks to restore the city to its former glory and create a prosperous realm for all its inhabitants.
 
 **Strength and Courage**:
 Chief Grommash embodies the physical strength and bravery of the ogre warriors. He is not afraid to lead his forces into battle, fighting side by side with his fellow ogres to protect their people and homeland.
@@ -24,10 +24,10 @@ Despite their fierce reputation, Chief Grommash recognizes the importance of dip
 Grommash's ultimate goal is the reclamation of Tatrington from the grasp of its enemies. He believes that with unity and determination, the ogres can restore the city to its former glory, once again making it a center of prosperity and culture.
 
 **Empathy and Understanding**:
-Chief Grommash has a surprising depth of empathy and understanding for the plight of other races in Eglaria. He seeks peaceful resolutions to conflicts whenever possible, striving to bridge the divide between ogres and other civilizations.
+Chief Grommash has a surprising depth of empathy and understanding for the plight of other races in [[notes/World Atlas/Eglaria|Eglaria]]. He seeks peaceful resolutions to conflicts whenever possible, striving to bridge the divide between ogres and other civilizations.
 
 **Legacy of Unity**:
-Grommash Ironheart's legacy lies not only in his pursuit of reclaiming Tatrington but also in the unity and hope he has inspired among his people. Under his leadership, The [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|Ogres of Tatrington]] stand as a powerful force, ready to defend their rights and seek a brighter future for all of Eglaria.
+Grommash Ironheart's legacy lies not only in his pursuit of reclaiming Tatrington but also in the unity and hope he has inspired among his people. Under his leadership, The [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|Ogres of Tatrington]] stand as a powerful force, ready to defend their rights and seek a brighter future for all of [[notes/World Atlas/Eglaria|Eglaria]].
 
 **The Roar of Grommash**:
 Chief Grommash's roar echoes across the land, a symbol of strength and determination that resonates with every ogre in his tribe. His heart of iron and visionary spirit make him a chief worth following, and he is prepared to lead The [[notes/World Encyclopedia/Powerful Organizations/Ogres of Tatrington|Ogres of Tatrington]] into a new era of prosperity and peace.

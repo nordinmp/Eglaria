@@ -3,7 +3,7 @@ title: General Alistair Stormbringer
 tags:
 - People
 ---
-General Alistair Stormbringer is the esteemed military leader of [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]], renowned for his tactical brilliance, calm demeanor, and unwavering commitment to protecting Eglaria. General Stormbringer exemplifies strength and leadership while approaching his role with a more measured and composed demeanor.
+General Alistair Stormbringer is the esteemed military leader of [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]], renowned for his tactical brilliance, calm demeanor, and unwavering commitment to protecting [[notes/World Atlas/Eglaria|Eglaria]]. General Stormbringer exemplifies strength and leadership while approaching his role with a more measured and composed demeanor.
 
 **Background and Personality**:
 General Stormbringer hails from a long line of esteemed military leaders, and his family's history is intertwined with the founding of [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]]. Despite his noble lineage, Alistair is known for his humble and approachable nature, making him highly respected and admired by soldiers and civilians alike.
@@ -18,12 +18,12 @@ General Stormbringer is known for his calm and collected presence on the battlef
 Like [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] itself, Alistair Stormbringer values unity and diversity among his troops. He encourages open communication and respect among different factions, fostering a sense of camaraderie that strengthens the organization as a whole. He seeks to create a harmonious environment where each soldier's strengths can be harnessed for the greater good.
 
 **A Beacon of Hope**:
-General Stormbringer embodies the ideals of [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] as a symbol of hope for Eglaria. His unwavering commitment to justice, fairness, and protection of the realm has earned him the loyalty and admiration of the people. He remains dedicated to upholding the principles that [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] was founded upon.
+General Stormbringer embodies the ideals of [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] as a symbol of hope for [[notes/World Atlas/Eglaria|Eglaria]]. His unwavering commitment to justice, fairness, and protection of the realm has earned him the loyalty and admiration of the people. He remains dedicated to upholding the principles that [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] was founded upon.
 
 **Lead by Example**:
 Alistair Stormbringer is not one to shy away from the frontlines. He believes in leading by example, standing alongside his soldiers in the heat of battle. His courage and willingness to face danger firsthand endear him to his troops and reinforce their belief in his leadership.
 
 **The Calm Before the Storm**:
-General Alistair Stormbringer's calm demeanor belies the fierce determination within him. When the time calls for action, he becomes an unstoppable force, leading [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] with a steely resolve to defend Eglaria against any threat that may arise.
+General Alistair Stormbringer's calm demeanor belies the fierce determination within him. When the time calls for action, he becomes an unstoppable force, leading [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] with a steely resolve to defend [[notes/World Atlas/Eglaria|Eglaria]] against any threat that may arise.
 
 Under General Stormbringer's leadership, [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] has become a force to be reckoned with, earning respect both on and off the battlefield. His tactical brilliance, calm demeanor, and commitment to unity have ensured that [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]] remains a beacon of hope for the realm, inspiring all to stand together in the face of adversity.

@@ -4,7 +4,7 @@ tags:
 - Organization
 ---
 ## La Cospirazione Stellare
-In Eglaria, there exists a secretive and influential organization known as "La Cospirazione Stellare," which translates to "The Stellar Conspiracy." Inspired by the Italian mafia, this clandestine group operates in the shadows, utilizing a network of connections, cunning strategies, and formidable power to manipulate events throughout the land.
+In [[notes/World Atlas/Eglaria|Eglaria]], there exists a secretive and influential organization known as "La Cospirazione Stellare," which translates to "The Stellar Conspiracy." Inspired by the Italian mafia, this clandestine group operates in the shadows, utilizing a network of connections, cunning strategies, and formidable power to manipulate events throughout the land.
 
 ## Core Aspects of La Cospirazione Stellare:
 
@@ -16,7 +16,7 @@ In Eglaria, there exists a secretive and influential organization known as "La C
 
 **Symbolism**: The Black Star serves as the symbol of the organization, often found discreetly marked on buildings, objects, or even skin. It represents the ever-watchful eye of the Stellari and the far-reaching influence of the conspiracy.
 
-**Power and Influence**: La Cospirazione Stellare seeks to control significant aspects of Eglaria, aiming to have a hand in politics, commerce, and even elements of the justice system. Their web of influence extends to high-ranking officials and influential figures, allowing them to evade prosecution and expand their reach.
+**Power and Influence**: La Cospirazione Stellare seeks to control significant aspects of [[notes/World Atlas/Eglaria|Eglaria]], aiming to have a hand in politics, commerce, and even elements of the justice system. Their web of influence extends to high-ranking officials and influential figures, allowing them to evade prosecution and expand their reach.
 
 **Shadow Wars**: The organization engages in covert conflicts with other powerful factions, including rival criminal groups and even some of the divine organizations. Their connections and intelligence make them formidable opponents in their bid for supremacy.
 
