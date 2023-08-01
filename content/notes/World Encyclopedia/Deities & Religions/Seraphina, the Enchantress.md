@@ -1,7 +1,7 @@
 ---
 title: Seraphina, the Enchantress
 tags:
-- Relgion
+- Religion
 ---
 Goddess of magic, spells, and enchantments
 
