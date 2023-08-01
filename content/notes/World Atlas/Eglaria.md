@@ -3,12 +3,11 @@ title: Eglaria
 enableToc: true
 ---
 ## Hurtig fakta 
-**Befolkning**:
-191.980.000
-**Regering**: 
-[[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]]
-**Hovedstad**:
-[[notes/World Atlas/Byer/Zapool|Zapool]]
+**Befolkning**: 191.980.000
+
+**Regering**: [[notes/World Encyclopedia/Powerful Organizations/The Dawn|The Dawn]]
+
+**Hovedstad**: [[notes/World Atlas/Byer/Zapool|Zapool]]
 
 ---
 ## Kort historie 
