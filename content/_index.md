@@ -16,3 +16,7 @@ Kort over Eglaria
 > [[tags/Organization|Vigtige organisationer]]
 
 Du kan søge efter lokationer på kortet, som f.eks. byer og øer
+eller bare se lister her
+- [[tags/byer|byer]]
+- [[tags/islands|øer]]
+- [[tags/landmark|landmarks]]

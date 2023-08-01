@@ -4,7 +4,7 @@ tags:
 - Organization
 ---
 ## The Dawn
-The Dawn is a formidable military organization that represents the united allied forces of Eglaria. Despite having a smaller army of 250,000 people, their strength lies in their numerous alliances outside of Eglaria, particularly with the western lands. Additionally, they wield significant political power, with their headquarters and influence centered in the city of Zapool.
+The Dawn is a formidable military organization that represents the united allied forces of Eglaria. Despite having a smaller army of 250,000 people, their strength lies in their numerous alliances outside of Eglaria, particularly with the western lands. Additionally, they wield significant political power, with their headquarters and influence centered in the city of [[notes/World Atlas/Byer/Zapool|Zapool]].
 
 ## Characteristics and Operations:
 
@@ -12,9 +12,9 @@ The Dawn is a formidable military organization that represents the united allied
 
 **Strategic Alliances**: The Dawn has forged powerful alliances with nations and organizations outside of Eglaria, especially in the western lands. These alliances provide them with valuable resources, military support, and crucial intelligence.
 
-**Fortresses of Strength**: The Dawn has established heavily fortified fortresses in strategic locations to safeguard their interests. One such fortress is situated outside Zapool, acting as a military stronghold and a symbol of their presence.
+**Fortresses of Strength**: The Dawn has established heavily fortified fortresses in strategic locations to safeguard their interests. One such fortress is situated outside [[notes/World Atlas/Byer/Zapool|Zapool]], acting as a military stronghold and a symbol of their presence.
 
-**Political Influence**: With their headquarters situated in Zapool, The Dawn has gained considerable political influence in the region. They hold sway over crucial decisions, treaties, and policies, shaping the course of events in Eglaria.
+**Political Influence**: With their headquarters situated in [[notes/World Atlas/Byer/Zapool|Zapool]], The Dawn has gained considerable political influence in the region. They hold sway over crucial decisions, treaties, and policies, shaping the course of events in Eglaria.
 
 **Elite Leadership**: The Dawn is led by a council of highly skilled and respected leaders, representing various factions within the organization. Their ability to collaborate and make strategic decisions has been instrumental in the success of The Dawn.
 
