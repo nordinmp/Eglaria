@@ -11,7 +11,8 @@ Kort over Eglaria
 [![[notes/images/Eglaria.jpg]]](https://nordinmp.github.io/Eglaria/notes/images/Eglaria.jpg)
 [Kort over Eglaria](https://nordinmp.github.io/Eglaria/notes/images/Eglaria.jpg)
 
--  [[tags/Religion|Vælg en religion]]
+Info om Eglaria
+-  [[tags/Religion|Største religioner]]
 - [[tags/People|Vigtige Folk]]
 - [[tags/Organization|Vigtige organisationer]]
 
