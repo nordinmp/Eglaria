@@ -3,7 +3,7 @@ title: Vandrende Ogre
 tags:
 - byer
 ---
-Befolkningen af denne klan består af folk, der blev forvist fra [[notes/World Atlas/Byer/Grance|Grance]] efter at [[notes/World Atlas/Byer/Ford Dul|Ford Dul]] besejrede dem i "Battle of the Occult." Efter nederlaget var de tvunget til at forlade deres hjem og blev hjemløse. De kæmper nu hver dag for at overleve i en verden, der har afvist dem.
+Befolkningen af denne klan består af folk, der blev forvist fra [[notes/World Atlas/Byer/Grance|Grance]] efter at [[notes/World Atlas/Byer/Ford Dul|Ford Dul]] besejrede dem i "[[notes/Timeline/Battle Of The Occult|Battle of the Occult]]." Efter nederlaget var de tvunget til at forlade deres hjem og blev hjemløse. De kæmper nu hver dag for at overleve i en verden, der har afvist dem.
 
 Klanen lever en omstrejfende tilværelse, da de ikke har noget fast hjem. De er nødt til at rejse hvert femte år, på jagt efter et sted, hvor de kan finde midlertidig tilflugt og ressourcer til at overleve. Denne uendelige cyklus af overlevelseskamp har gjort dem til hårdføre og seje individer, der er vant til at klare sig i de mest udfordrende situationer.
 
