@@ -17,13 +17,13 @@ The Stormseekers built magnificent temples on high cliffs and mountaintops, wher
 
 The primary tenets of the religion of Valeris, the Stormbringer, are as follows:
 
-Embrace the Power of Nature: Stormseekers revere the untamed forces of nature, recognizing that thunder, lightning, and tempests are essential aspects of the world's equilibrium. They believe that embracing these forces allows one to be in harmony with the natural order.
+**Embrace the Power of Nature**: Stormseekers revere the untamed forces of nature, recognizing that thunder, lightning, and tempests are essential aspects of the world's equilibrium. They believe that embracing these forces allows one to be in harmony with the natural order.
 
-Seek Balance and Renewal: Just as storms cleanse and renew the land, Stormseekers understand the need for periodic upheavals and transformations in their own lives. They embrace change as an opportunity for growth and renewal.
+**Seek Balance and Renewal**: Just as storms cleanse and renew the land, Stormseekers understand the need for periodic upheavals and transformations in their own lives. They embrace change as an opportunity for growth and renewal.
 
-Respect the Majesty of Thunder and Lightning: Thunder and lightning are seen as the manifestations of Valeris' power. Stormseekers approach these phenomena with both reverence and caution, acknowledging the divine force within them.
+**Respect the Majesty of Thunder and Lightning**: Thunder and lightning are seen as the manifestations of Valeris' power. Stormseekers approach these phenomena with both reverence and caution, acknowledging the divine force within them.
 
-Find Strength in Adversity: Stormseekers believe that just as lightning illuminates the darkest of nights, challenges and adversity can reveal one's inner strength and resilience. They see these trials as opportunities for personal growth and enlightenment.
+**Find Strength in Adversity**: Stormseekers believe that just as lightning illuminates the darkest of nights, challenges and adversity can reveal one's inner strength and resilience. They see these trials as opportunities for personal growth and enlightenment.
 
 Live with Fearless Spirit: Valeris' storms are a testament to the untamed spirit of the natural world. Stormseekers are encouraged to face life's challenges with courage, adaptability, and an unyielding spirit, much like the winds that shift and howl during a tempest.
 

@@ -15,14 +15,14 @@ The followers of Drakonir formed a religion that honored and respected the majes
 
 The primary tenets of the religion of Drakonir, the Wyrm Lord, are as follows:
 
-Celebrate the Wyrm and the Elements: The Wyrmkin view dragons and the elements of fire and earth as sacred manifestations of Drakonir's divine essence. They celebrate and respect these primal forces, recognizing their significance in the world's balance.
+**Celebrate the Wyrm and the Elements**: The Wyrmkin view dragons and the elements of fire and earth as sacred manifestations of Drakonir's divine essence. They celebrate and respect these primal forces, recognizing their significance in the world's balance.
 
-Preserve the Wyrm's Legacy: Wyrmkin are devoted to preserving and protecting dragonkind. They safeguard dragon habitats, oppose exploitation, and seek to ensure the continuation of these majestic creatures for generations to come.
+**Preserve the Wyrm's Legacy**: Wyrmkin are devoted to preserving and protecting dragonkind. They safeguard dragon habitats, oppose exploitation, and seek to ensure the continuation of these majestic creatures for generations to come.
 
-Respect the Rhythms of Nature: Drakonir's followers embrace the cycles of fire and earth that shape the natural world. They honor the changing seasons, volcanic eruptions, and seismic shifts as sacred expressions of the god's will.
+**Respect the Rhythms of Nature**: Drakonir's followers embrace the cycles of fire and earth that shape the natural world. They honor the changing seasons, volcanic eruptions, and seismic shifts as sacred expressions of the god's will.
 
-Embrace the Dragon Within: Wyrmkin believe that each individual carries the essence of the dragon and the elements within their spirit. They seek to awaken and nurture these aspects to find strength, resilience, and connection with nature.
+**Embrace the Dragon Within**: Wyrmkin believe that each individual carries the essence of the dragon and the elements within their spirit. They seek to awaken and nurture these aspects to find strength, resilience, and connection with nature.
 
-Guardians of the Flame and Earth: The followers of Drakonir consider themselves guardians of the divine flame and the earth's core. They strive to harness the elements responsibly, using fire and earth for constructive purposes and refraining from their misuse.
+**Guardians of the Flame and Earth**: The followers of Drakonir consider themselves guardians of the divine flame and the earth's core. They strive to harness the elements responsibly, using fire and earth for constructive purposes and refraining from their misuse.
 
 Through their devotion to Drakonir, the Wyrm Lord, the Wyrmkin forge a profound connection with the dragons and the elements they cherish. They seek harmony with the natural world and embrace the dragon's spirit within, aspiring to become guardians of the primal forces that shape the cosmos. In their rituals and prayers, they call upon the Wyrm Lord to grant them wisdom, strength, and the ability to live in harmony with the fiery and earthen tapestry of existence.

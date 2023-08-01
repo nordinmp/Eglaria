@@ -13,14 +13,14 @@ In lands where the boundless mysteries of the cosmos were both feared and revere
 
 The primary tenets of the religion of Astraeth, the Voidwalker, are as follows:
 
-Embrace the Darkness: The Seekers of the Abyss revere darkness as a vessel of hidden truths and untapped knowledge. They find comfort in exploring the mysteries that lie beyond the veil of light.
+**Embrace the Darkness**: The Seekers of the Abyss revere darkness as a vessel of hidden truths and untapped knowledge. They find comfort in exploring the mysteries that lie beyond the veil of light.
 
-Contemplate the Vast Unknown: Followers of Astraeth seek to expand their minds and hearts by delving into the vastness of the unknown. They are open to the ever-evolving nature of existence and embrace the uncertainty of the cosmos.
+**Contemplate the Vast Unknown**: Followers of Astraeth seek to expand their minds and hearts by delving into the vastness of the unknown. They are open to the ever-evolving nature of existence and embrace the uncertainty of the cosmos.
 
-Discover Wisdom in Emptiness: The Seekers of the Abyss understand that within emptiness lies the potential for profound revelation. They seek solace and wisdom in the void, appreciating the clarity that comes from detachment.
+**Discover Wisdom in Emptiness**: The Seekers of the Abyss understand that within emptiness lies the potential for profound revelation. They seek solace and wisdom in the void, appreciating the clarity that comes from detachment.
 
-Challenge Fear of the Unknown: The followers of Astraeth strive to confront their fears of the unknown and the darkness. They believe that by facing these fears, they can unlock their true potential and inner strength.
+**Challenge Fear of the Unknown**: The followers of Astraeth strive to confront their fears of the unknown and the darkness. They believe that by facing these fears, they can unlock their true potential and inner strength.
 
-Respect the Balance of Light and Dark: The Seekers of the Abyss acknowledge the interplay between light and darkness in the cosmos. They perceive Astraeth as a cosmic guardian, reminding them of the delicate balance of existence.
+**Respect the Balance of Light and Dark**: The Seekers of the Abyss acknowledge the interplay between light and darkness in the cosmos. They perceive Astraeth as a cosmic guardian, reminding them of the delicate balance of existence.
 
 Through their devotion to Astraeth, the Voidwalker, the Seekers of the Abyss find purpose in their connection to the vast unknown and the wisdom hidden within the shadows. They believe that by embracing the mysteries of the cosmos and venturing into the depths of the void, they can become enlightened souls, unearthing the eternal truths of existence.

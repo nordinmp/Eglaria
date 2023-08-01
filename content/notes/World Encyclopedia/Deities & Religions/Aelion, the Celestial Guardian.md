@@ -19,15 +19,15 @@ Aelion is often depicted as a benevolent figure, exuding a sense of calm and com
 
 The primary tenets of Aelion's faith include:
 
-Protection of the Stars: Celestial Custodians are tasked with safeguarding the stars from darkness and corruption. They believe that every star represents a unique life and a story worth protecting.
+ **Protection of the Stars**: Celestial Custodians are tasked with safeguarding the stars from darkness and corruption. They believe that every star represents a unique life and a story worth protecting.
 
-Seeking Knowledge: Aelion encourages the pursuit of knowledge and understanding, for wisdom is a beacon of light that illuminates the path towards harmony.
+**Seeking Knowledge**: Aelion encourages the pursuit of knowledge and understanding, for wisdom is a beacon of light that illuminates the path towards harmony.
 
-Embracing Harmony: Followers of Aelion strive to maintain balance and harmony in all aspects of life, fostering unity and cooperation among different beings and civilizations.
+**Embracing Harmony**: Followers of Aelion strive to maintain balance and harmony in all aspects of life, fostering unity and cooperation among different beings and civilizations.
 
-Guardianship: Celestial Custodians aim to be guardians not only of the stars but also of their communities and loved ones, protecting them from harm and injustice.
+**Guardianship**: Celestial Custodians aim to be guardians not only of the stars but also of their communities and loved ones, protecting them from harm and injustice.
 
-Stargazing and Meditation: Taking moments to stargaze and meditate on the vastness of the cosmos is a sacred practice among Aelion's followers. It helps them connect with the divine and find inner peace.
+**Stargazing and Meditation**: Taking moments to stargaze and meditate on the vastness of the cosmos is a sacred practice among Aelion's followers. It helps them connect with the divine and find inner peace.
 
 Festivals are held to celebrate significant celestial events, such as the birth of new stars or the alignment of planets. These celebrations involve elaborate rituals, prayers, and acts of benevolence towards those in need.
 

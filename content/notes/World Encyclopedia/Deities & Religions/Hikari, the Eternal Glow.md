@@ -13,14 +13,14 @@ In lands where love was celebrated as a divine force, a religion formed to vener
 
 The primary tenets of the religion of Hikari, the Eternal Glow, are as follows:
 
-Cherish Radiant Love: The Devotees of Eternal Glow revere love as a radiant force that binds souls together. They believe that true love illuminates the hearts of those who experience it, igniting an eternal glow within.
+**Cherish Radiant Love**: The Devotees of Eternal Glow revere love as a radiant force that binds souls together. They believe that true love illuminates the hearts of those who experience it, igniting an eternal glow within.
 
-Nurture Soul Connections: Followers of Hikari seek to nurture the soul connections they share with others, whether through romantic relationships or profound friendships. They understand that such connections are sacred and transcend the boundaries of time.
+**Nurture Soul Connections**: Followers of Hikari seek to nurture the soul connections they share with others, whether through romantic relationships or profound friendships. They understand that such connections are sacred and transcend the boundaries of time.
 
-Embrace Eternal Devotion: The Devotees embrace the concept of eternal devotion, recognizing that true love endures beyond the confines of mortal existence. They strive to remain steadfast in their commitments to others.
+**Embrace Eternal Devotion**: The Devotees embrace the concept of eternal devotion, recognizing that true love endures beyond the confines of mortal existence. They strive to remain steadfast in their commitments to others.
 
-Celebrate Kindred Spirits: Followers of Hikari celebrate the discovery of kindred spirits, recognizing that these encounters are fated and carry profound significance in their spiritual journey.
+**Celebrate Kindred Spirits**: Followers of Hikari celebrate the discovery of kindred spirits, recognizing that these encounters are fated and carry profound significance in their spiritual journey.
 
-Spread the Light of Love: The Devotees of Eternal Glow see themselves as emissaries of Hikari's radiant love. They aim to spread love's light, offering compassion, understanding, and support to those in need.
+**Spread the Light of Love**: The Devotees of Eternal Glow see themselves as emissaries of Hikari's radiant love. They aim to spread love's light, offering compassion, understanding, and support to those in need.
 
 Through their devotion to Hikari, the Eternal Glow, the Devotees find purpose in their connection to radiant love, soul connections, and eternal devotion. They believe that by embodying Hikari's profound love and nurturing soul connections, they can create a world where love's eternal flame illuminates the hearts of all beings, guiding them towards the transformative power of eternal devotion.
