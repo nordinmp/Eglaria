@@ -2,7 +2,6 @@
 title: Heksejagt (år 200-325) 
 tags:
 - timeline
-draft: true
 ---
 Mellem årene 200 og 325 i Eglarias dystre fortid blev landet hjemsøgt af en grusom og blodig heksejagt. I frygtens greb led befolkningen under de makabre overbevisninger om, at hekse var ansvarlige for alle deres ulykker og lidelser.
 
