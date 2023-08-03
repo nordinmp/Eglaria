@@ -14,6 +14,7 @@ I dag er der kun en lille gruppe af heksejægere tilbage, skjult i skyggerne som
 
 [[notes/World Atlas/Eglaria|Eglaria]] er blevet et land, der bærer arrene af sin blodige historie, hvor heksejægernes frygtelige handlinger stadig hjemsøger befolkningen. I skyggerne lurer stadig resterne af deres mørke magi, og frygten for at heksejægerne en dag vil vende tilbage, næres af mareridtene fra fortiden.
 
+læs mere [[notes/Timeline/Heksejagt|her]]
 ## Skæbnens Sortbund
 
 Skæbnens Sortbund er den sidste tilbageværende gruppe af heksejægere i [[notes/World Atlas/Eglaria|Eglaria]], en sammenslutning af mystiske skikkelser, hvis liv er viet til at udrydde det onde og beskytte landet mod heksenes dystre magi. De bærer stoltheden af deres dystre arv og trækker på kræfterne fra mørkere guder for at forstå heksekraftens hemmeligheder. Men modsat heksene bruger de ikke den forbudte magi; i stedet nærer de sig af deres indgående viden og uovertrufne færdigheder i kamp.
