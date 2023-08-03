@@ -4,10 +4,6 @@ tags:
 - timeline
 draft: true
 ---
-
-#todo
-- [ ] Skriv noget
-
 Mellem årene 200 og 325 i Eglarias dystre fortid blev landet hjemsøgt af en grusom og blodig heksejagt. I frygtens greb led befolkningen under de makabre overbevisninger om, at hekse var ansvarlige for alle deres ulykker og lidelser.
 
 De dømte hekse blev taget til fange og ført til uhyggelige bål, hvor flammerne ulmede og spiste deres uskyldige sjæle. Når de ulykkelige sjæle endelig brændte ud, blev deres rester samlet - kød, knogler og aske - og brugt som gødning til markerne i håbet om at tiltrække magiske kræfter til en overflod af afgrøder. Den morbide praksis for at fodre markerne med det, der engang var menneske, blev anset som nøglen til en evigt succesfuld høst.

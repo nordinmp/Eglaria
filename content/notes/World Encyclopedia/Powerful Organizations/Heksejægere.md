@@ -27,3 +27,4 @@ Med deres sortklædte kapper, der giver dem et skræmmende udseende, fremstår S
 Skæbnens Sortbund er en hemmelig orden, og selv om de opererer i skyggerne, er deres tilstedeværelse kendt af nogle få. De er frygtet og respekteret i lige måde, da deres dedikation til at beskytte [[notes/World Atlas/Eglaria|Eglaria]] mod hekse udgør en afgørende beskyttelse mod det onde, der lurer i landet.
 
 Som de sidste vogtere af en ældgammel tradition er Skæbnens Sortbund tro mod deres kald, men i deres mørke mission er spørgsmålet om, hvor langt de er villige til at gå, for at beskytte [[notes/World Atlas/Eglaria|Eglaria]], blevet en kamp med deres eget moralske kompas. De balancerer på kanten af lyset og mørket, hvorved de selv risikerer at blive forført af de samme kræfter, de kæmper imod.
+
